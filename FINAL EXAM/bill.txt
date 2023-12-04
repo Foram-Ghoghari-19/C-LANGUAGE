@@ -1,0 +1,9 @@
+-----BILL-----
+NAME :	
+  foramCONTACT :	
+  1234567890==============================================
+Number of Quantity :	Product Number :	Price : 	Product name :	
+==============================================
+2	 1	 200	 pizza	 
+
+			 TOTAL	: 472
